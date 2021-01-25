@@ -42,3 +42,5 @@
  - Spam WhatsApp  (Not For Public)
 ```
 ### Athallah Dzaki
+
+## New Repo [Here](https://github.com/AthallahDzaki/freerestapi)
